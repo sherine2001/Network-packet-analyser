@@ -1,97 +1,583 @@
 [
     {
         "src": "192.168.29.101",
-        "dst": "192.168.29.1",
-        "protocol": "UDP"
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 419,
+        "anomaly": null
     },
     {
-        "src": "192.168.29.101",
-        "dst": "192.168.29.1",
-        "protocol": "UDP"
-    },
-    {
-        "src": "192.168.29.1",
+        "src": "146.75.118.172",
         "dst": "192.168.29.101",
-        "protocol": "UDP"
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
     },
     {
-        "src": "192.168.29.1",
+        "src": "146.75.118.172",
         "dst": "192.168.29.101",
-        "protocol": "UDP"
+        "protocol": "TCP",
+        "size": 567,
+        "anomaly": null
     },
     {
-        "src": "192.168.29.101",
-        "dst": "192.168.29.1",
-        "protocol": "OTHER"
-    },
-    {
-        "src": "192.168.29.101",
-        "dst": "52.168.117.169",
-        "protocol": "TCP"
-    },
-    {
-        "src": "192.168.29.101",
-        "dst": "52.168.117.169",
-        "protocol": "TCP"
-    },
-    {
-        "src": "192.168.29.101",
-        "dst": "52.168.117.169",
-        "protocol": "TCP"
-    },
-    {
-        "src": "192.168.29.101",
-        "dst": "52.168.117.169",
-        "protocol": "TCP"
-    },
-    {
-        "src": "192.168.29.101",
-        "dst": "52.168.117.169",
-        "protocol": "TCP"
-    },
-    {
-        "src": "192.168.29.1",
-        "dst": "224.0.0.1",
-        "protocol": "OTHER"
-    },
-    {
-        "src": "52.168.117.169",
+        "src": "146.75.118.172",
         "dst": "192.168.29.101",
-        "protocol": "TCP"
-    },
-    {
-        "src": "52.168.117.169",
-        "dst": "192.168.29.101",
-        "protocol": "TCP"
-    },
-    {
-        "src": "52.168.117.169",
-        "dst": "192.168.29.101",
-        "protocol": "TCP"
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
     },
     {
         "src": "192.168.29.101",
-        "dst": "52.168.117.169",
-        "protocol": "TCP"
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
     },
     {
         "src": "192.168.29.101",
-        "dst": "224.0.0.22",
-        "protocol": "OTHER"
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 78,
+        "anomaly": null
     },
     {
-        "src": "52.168.117.169",
+        "src": "146.75.118.172",
         "dst": "192.168.29.101",
-        "protocol": "TCP"
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
     },
     {
         "src": "192.168.29.101",
-        "dst": "52.168.117.169",
-        "protocol": "TCP"
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
     },
     {
-        "src": "52.168.117.169",
+        "src": "146.75.118.172",
         "dst": "192.168.29.101",
-        "protocol": "TCP"
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "20.57.85.160",
+        "protocol": "TCP",
+        "size": 54,
+        "anomaly": null
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "20.57.85.160",
+        "protocol": "TCP",
+        "size": 54,
+        "anomaly": null
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "20.57.85.160",
+        "protocol": "TCP",
+        "size": 54,
+        "anomaly": null
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "20.57.85.160",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 78,
+        "anomaly": null
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "20.57.85.160",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
+    },
+    {
+        "src": "20.57.85.160",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 54,
+        "anomaly": null
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "20.57.85.160",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "20.57.85.160",
+        "protocol": "TCP",
+        "size": 54,
+        "anomaly": null
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "20.57.85.160",
+        "protocol": "TCP",
+        "size": 1494,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "20.57.85.160",
+        "protocol": "TCP",
+        "size": 751,
+        "anomaly": null
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET",
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET",
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 78,
+        "anomaly": [
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET",
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": [
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET",
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET",
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": [
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET",
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "20.57.85.160",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": null
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "20.57.85.160",
+        "protocol": "TCP",
+        "size": 54,
+        "anomaly": [
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "20.57.85.160",
+        "protocol": "TCP",
+        "size": 1494,
+        "anomaly": [
+            "LARGE_PACKET",
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "20.57.85.160",
+        "protocol": "TCP",
+        "size": 719,
+        "anomaly": [
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET",
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "146.75.118.172",
+        "protocol": "TCP",
+        "size": 66,
+        "anomaly": [
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "146.75.118.172",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1510,
+        "anomaly": [
+            "LARGE_PACKET",
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "20.57.85.160",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 54,
+        "anomaly": null
+    },
+    {
+        "src": "20.57.85.160",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 54,
+        "anomaly": null
+    },
+    {
+        "src": "20.57.85.160",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1514,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "20.57.85.160",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1514,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "20.57.85.160",
+        "protocol": "TCP",
+        "size": 54,
+        "anomaly": [
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "20.57.85.160",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1230,
+        "anomaly": null
+    },
+    {
+        "src": "20.57.85.160",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1514,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "192.168.29.101",
+        "dst": "20.57.85.160",
+        "protocol": "TCP",
+        "size": 54,
+        "anomaly": [
+            "HIGH_VOLUME_SRC"
+        ]
+    },
+    {
+        "src": "20.57.85.160",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 1514,
+        "anomaly": [
+            "LARGE_PACKET"
+        ]
+    },
+    {
+        "src": "20.57.85.160",
+        "dst": "192.168.29.101",
+        "protocol": "TCP",
+        "size": 628,
+        "anomaly": null
     }
 ]

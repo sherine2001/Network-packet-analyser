@@ -1,2 +1,1 @@
-scapy
-pyshark
+scapy==2.5.0
